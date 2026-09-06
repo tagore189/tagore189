@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ `whoami`
+## `WHO AM I`
 
 I'm **Tagore Nath Reddy**, a Computer Science student who enjoys turning ideas into working products. I'm especially interested in full-stack web development, AI/ML, hackathons, and solving practical problems with software.
 
